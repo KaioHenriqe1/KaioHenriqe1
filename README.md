@@ -20,4 +20,4 @@
 
 Estou aprendendo programação e estou animado para compartilhar meus projetos com vocês! Acredito que a chave para o sucesso é a combinação de dedicação, perseverança e aprendizado constante. Vamos juntos nessa jornada de descoberta e inovação!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1&layout=compact)
