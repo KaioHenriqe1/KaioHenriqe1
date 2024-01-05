@@ -5,7 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-le%C3%A3o-4599b0283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiohenriqe4/)
-[![Dio](https://img.shields.io/badge/Perfil_Da_dio-E440B4?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/kaiohenriqe1?tab=achievements)
+[![Dio](https://img.shields.io/badge/Meu_Perfil_Da_dio-E440B4?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/kaiohenriqe1?tab=achievements)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiohenriqe1@gmail.com)
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioHenrique&show_icons=true&theme=dracula)
 
