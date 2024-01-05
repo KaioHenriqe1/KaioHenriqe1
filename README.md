@@ -1,23 +1,34 @@
 
 ### Olá! Eu me chamo Kaio Henrique 👋
 
+##
+
+Estou aprendendo programação e estou animado para compartilhar meus projetos com vocês! Acredito que a chave para o sucesso é a combinação de dedicação, perseverança e aprendizado constante. Vamos juntos nessa jornada de descoberta e inovação!
+
+##
+
 #### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-le%C3%A3o-4599b0283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiohenriqe4/)
-[![Dio](https://img.shields.io/badge/Meu_Perfil_Da_dio-E440B4?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/kaiohenriqe1?tab=achievements)
+[![Dio](https://img.shields.io/badge/Meu_Perfil_Na_dio-E440B4?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/kaiohenriqe1?tab=achievements)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiohenriqe1@gmail.com)
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioHenrique&show_icons=true&theme=dracula)
 
-## Tecnologias que eu utilizo no meu dia
+## Estudando
 
 <div style="display: inline_block"><br/>
- <img align=="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- <img align=="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align=="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
 </div<br/>
 
-Estou aprendendo programação e estou animado para compartilhar meus projetos com vocês! Acredito que a chave para o sucesso é a combinação de dedicação, perseverança e aprendizado constante. Vamos juntos nessa jornada de descoberta e inovação!
+## Principais Projetos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1&layout=compact)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/1asm1n/dio-lab-open-source)
