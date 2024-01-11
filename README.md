@@ -28,8 +28,6 @@ Estou aprendendo programação e estou animado para compartilhar meus projetos c
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
-[![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=meu-projeto-html&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KaioHenriqe1/meu-projeto-html)
-
-
+[![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=meu-projeto-html&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache=no)](https://github.com/KaioHenriqe1/meu-projeto-html)
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/1asm1n/dio-lab-open-source)
