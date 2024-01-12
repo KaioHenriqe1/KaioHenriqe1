@@ -12,6 +12,7 @@ Estou aprendendo programação e estou animado para compartilhar meus projetos c
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioHenrique&show_icons=true&theme=dracula)
 ![Habilidades em Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1&layout=compact&theme=radical)
 
+
 ### Estudando
 
 <div style="display: inline_block">
