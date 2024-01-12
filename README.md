@@ -1,11 +1,6 @@
-
 ### Olá! Eu me chamo Kaio Henrique 👋
 
-##
-
 Estou aprendendo programação e estou animado para compartilhar meus projetos com vocês! Acredito que a chave para o sucesso é a combinação de dedicação, perseverança e aprendizado constante. Vamos juntos nessa jornada de descoberta e inovação!
-
-##
 
 #### Conecte-se comigo:
 
@@ -15,20 +10,22 @@ Estou aprendendo programação e estou animado para compartilhar meus projetos c
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiohenriqe1@gmail.com)
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioHenrique&show_icons=true&theme=dracula)
-![Habilidades em Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1)
+![Habilidades em Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1&layout=compact&theme=radical)
 
-## Estudando
+### Estudando
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
-</div<br/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+</div>
 
-## Principais Projetos
+### Principais Projetos
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 [![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=meu-projeto-html&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KaioHenriqe1/meu-projeto-html)
-## Minhas Contribuições
+
+### Minhas Contribuições
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/1asm1n/dio-lab-open-source)
