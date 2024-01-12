@@ -15,7 +15,7 @@ Estou aprendendo programação e estou animado para compartilhar meus projetos c
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiohenriqe1@gmail.com)
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioHenrique&show_icons=true&theme=dracula)
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=KaioHenriqe1&show_icons=true&theme=radical)
+![Habilidades em Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHenriqe1)
 
 ## Estudando
 
