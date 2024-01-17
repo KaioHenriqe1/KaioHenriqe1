@@ -27,7 +27,7 @@ Estou aprendendo programação e estou animado para compartilhar meus projetos c
 
 [![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=meu-projeto-html&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KaioHenriqe1/meu-projeto-html)
 
-[![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=gerador-de-senhas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KaioHenriqe1/GeradorDeSenha.git)
+[![Meu Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KaioHenriqe1&repo=GeradorDeSenhas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KaioHenriqe1/GeradorDeSenha.git)
 
 ### Minhas Contribuições
 
